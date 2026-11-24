@@ -11,7 +11,6 @@ See my software project: [urban-sound-stability-cnn](https://github.com/juliocup
 
 ## What I did vs. what I built on
 - This is an individual project.
-- I am learning with Claude (Anthropic) as a tutor and reviewer. I write the code myself. If any file contains AI-written code, the file will say so.
 - Ideas and tools I build on will be credited in the Credits section as I use them.
 
 ## Planned design (nothing below is built yet)
