@@ -1,0 +1,17 @@
+# Simulation output (rebuild it, don't commit it)
+*.vvp
+*.vcd
+*.fst
+*.lxt
+sim_build/
+results.xml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
